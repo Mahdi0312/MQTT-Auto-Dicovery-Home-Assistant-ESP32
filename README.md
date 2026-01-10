@@ -1,3 +1,4 @@
+# MQTT-Auto-Dicovery-Home-Assistant-ESP32
 **Installation and Configuration Guide: Home Assistant & ESP32 (MQTT)**
 
 This guide describes the steps required to deploy Home Assistant on a
@@ -165,4 +166,3 @@ style="width:2.9407in;height:3.26462in" />
 > Verify that all units are connected via MQTT.
 >
 > <img src="./media/image25.png" style="width:6.5in;height:2.27083in" />
-# MQTT-Auto-Dicovery-Home-Assistant-ESP32
